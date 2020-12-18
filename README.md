@@ -1,0 +1,2 @@
+# ec2_gradle_03
+gradle_HelloGradle_project
